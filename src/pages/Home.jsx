@@ -211,6 +211,15 @@ const Home = () => {
                           AUR
                         </a>
                       </MenuItem>
+                       <MenuItem>
+                        <a
+                          href="https://github.com/Mostaqem/mostaqem_desktop/releases/latest/download/mostaqem-linux-x86_64.AppImage"
+                          target="_blank"
+                          className="block px-4 py-2 text-sm text-gray-700 data-[focus]:bg-[#fcd29e] data-[focus]:text-gray-900"
+                        >
+                          AppImage
+                        </a>
+                      </MenuItem>
                     </div>
                   </MenuItems>
                 </Menu>
